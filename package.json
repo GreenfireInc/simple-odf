@@ -23,7 +23,8 @@
     "Christoph Nölke",
     "Thomas Parisot",
     "Koen Verheyen",
-    "Cain Watson"
+    "Cain Watson",
+    "Greenfire Team"
   ],
   "files": [
     "dist",
@@ -70,6 +71,6 @@
     "typescript": "^3.9.9"
   },
   "engines": {
-    "node": "^10.x"
+    "node": "^12.x"
   }
 }
