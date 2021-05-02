@@ -1,5 +1,5 @@
 {
-  "name": "@greenfire/simple-odf",
+  "name": "simple-odf",
   "version": "2.0.1",
   "description": "Open Document Format made easy using pure JavaScript and Node.js",
   "keywords": [
