@@ -6,3 +6,4 @@ example.spec.ts
 package-lock.json
 package.json~
 TODO.md
+.gitignore~

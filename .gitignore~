@@ -1,8 +1,0 @@
-.vscode/
-coverage/
-dist/
-node_modules/
-example.spec.ts
-package-lock.json
-
-TODO.md
