@@ -29,7 +29,7 @@ See [usage](#usage) for notes on how to integrate the project in your software.
 
 To get started locally, follow these instructions:
 
-1. Make sure that you have Node 10.x or later installed.
+1. Make sure that you have Node 12.x or later installed (Changed by Greenfire.io).
    See instructions [here](https://nodejs.org/en/download/).
 
 1. Make sure that you have yarn installed; see instructions here.
